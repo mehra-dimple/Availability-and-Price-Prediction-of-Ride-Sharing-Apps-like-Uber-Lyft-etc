@@ -41,7 +41,7 @@ There is one small (but important) detail to add. The Random Forest adds a new s
 #### XGB Boost Regression
 Extreme Gradient Boosting (XGBoost) is an open-source library that provides an efficient and effective implementation of the gradient boosting algorithm. ... XGBoost is an efficient implementation of gradient boosting that can be used for regression predictive modeling.
 
-<img src="./Images/linear_regression_results.png">
+<img src="./Images/linear_regression_results.PNG">
 **CONCLUSIONS:** We can see that the regression error, random forest error is much less compared to the baseline error, but still significant enough to decrease the accuracy of our prediction.
 
 ### Time Series Analysis in Deep Learning with TensorFlow
